@@ -1,0 +1,10 @@
+site_name: My Personal Blog
+site_url: http://127.0.0.1:8000/
+nav:
+    - Home: index.md
+    - Mkdocs learning: sample.md
+    - Site Reliability Engineering: 
+        - Python : file1.md
+
+theme: readthedocs
+
