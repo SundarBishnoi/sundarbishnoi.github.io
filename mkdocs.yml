@@ -1,5 +1,5 @@
 site_name: My Personal Blog
-site_url: http://127.0.0.1:8000/
+site_url: https://sundarbishnoi.github.io/
 nav:
     - Home: index.md
     - Mkdocs learning: sample.md
