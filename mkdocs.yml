@@ -4,7 +4,8 @@ nav:
     - Home: index.md
     - Mkdocs learning: sample.md
     - Site Reliability Engineering: 
-        - Python : file1.md
+        - Github Learning: gitdemo.md
+        - Git : git.md
+        
 
 theme: readthedocs
-
